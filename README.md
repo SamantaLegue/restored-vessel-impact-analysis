@@ -78,9 +78,3 @@ The raw intake register (`data/raw_youth_intake.csv`) has the problems real regi
 | `build_sqlite.py`, `restored_vessel.db` | A ready SQLite copy for quick checking (open in DB Browser for SQLite) |
 | `powerbi/POWER_BI_GUIDE.md` | Model, relationships and report page layout |
 | `powerbi/measures.dax` | 19 DAX measures |
-
-## How to publish this
-
-1. Create a GitHub repository, upload the `portfolio` folder, and use this README as its front page.
-2. Build the Power BI report from the guide, publish it to the web or export it to PDF, and add screenshots to this README.
-3. Write a short LinkedIn post about why you built it. Your story as the founder is what makes this project different from a standard dataset.
