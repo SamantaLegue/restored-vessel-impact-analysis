@@ -1,0 +1,513 @@
+youth_id,intake_date,age,gender,home_region,primary_issue,referral_source,education_at_intake,exit_date,exit_reason
+RV0470,2026-07-16,18,Male,Littoral (Douala),Substance use,Church,Dropped out,,
+RV0108,2024-11-03,18,Male,Centre,Multiple,Church,Never enrolled,2025-10-20,Lost contact
+RV0372,2026-02-26,19,Female,West,Substance use,Police / court,Never enrolled,2026-08-28,Lost contact
+RV0211,2025-06-01,22,Female,Far North,Sexual exploitation,Police / court,Working,,
+RV0252,2025-08-13,19,Male,Southwest,Crime,Family,Dropped out,,
+RV0282,2025-10-07,15,Male,Southwest,Substance use,FAMILY,Never enrolled,2026-06-04,Moved away
+RV0251,2025-08-12,17,Male,Littoral,Crime,School,Dropped out,2026-07-27,Declined to continue
+RV0262,2025-08-30,20,F,South,Substance use,School,Dropped out,2025-12-05,Lost contact
+RV0240,2025-07-31,18,Male,Littoral (Douala),Substance use,Street outreach,Never enrolled,2026-01-13,Moved away
+RV0001,2024-01-04,19,Female,Littoral,Sexual exploitation,Street outreach,In school,2024-03-20,Lost contact
+RV0403,2026-04-05,21,Female,Southwest,Sexual exploitation,School,Working,,
+RV0464,2026-07-06,15,male,Littoral (Douala),Substance use,School,Never enrolled,,
+RV0110,2024-11-11,20,Male,NW,Crime,Street outreach,Dropped out,2025-12-09,Completed programme
+RV0223,2025-06-19,17,M,Littoral,Crime,Police / court,In school,2026-02-10,Moved away
+RV0100,2024-10-20,17,Male,Littoral,Substance use,Street outreach,Working,2025-01-11,Lost contact
+RV0208,2025-05-28,16,Male,Littoral,Substance use,Church,Dropped out,2026-05-14,Completed programme
+RV0019,2024-02-26,21,Male,northwest,Multiple,Family,Dropped out,2025-03-12,Declined to continue
+RV0467,2026-07-08,20,Female,West,Substance use,Street outreach,Never enrolled,,
+RV0458,2026-06-27,20,Male,Northwest,Sexual exploitation,Church,Dropped out,,
+RV0116,2024-11-19,,Male,Littoral (Douala),Substance use,School,Dropped out,2024-12-04,Moved away
+RV0244,2025-08-07,19,Female,Littoral,Substance use,Street outreach,Working,2025-10-10,Declined to continue
+RV0338,2025-12-27,16,male, Littoral,Substance use,Church,Dropped out,2026-05-15,Declined to continue
+RV0156,2025-02-21,22,Male,Littoral,Substance use,School,Dropped out,2025-10-06,Moved away
+RV0460,2026-06-29,18,Male,Centre,Crime,Family,Dropped out,2026-06-30,Declined to continue
+RV0064,2024-07-20,21,Female,Littoral,Substance use,Street outreach,Never enrolled,2026-09-01,Completed programme
+RV0448,2026-06-16,20,Male,Northwest,Crime,Street outreach,Working,2026-08-16,Lost contact
+RV0132,2025-01-12,18,Male,Southwest,Crime,Family,In school,2025-02-05,Declined to continue
+RV0379,2026-03-02,18,Male,Southwest,Substance use,NGO partner,Dropped out,2026-07-12,Lost contact
+RV0203,2025-05-23,24,Male,Littoral (Douala),Crime,Street outreach,Dropped out,,
+RV0443,2026-06-13,16,Female,Littoral,Crime,Church,Working,2026-09-28,Moved away
+RV0301,2025-11-05,20,Male,West,Substance use,Street outreach,Dropped out,2026-05-12,Declined to continue
+RV0228,2025-07-10,18,Female, Littoral,Substance use,Church,Dropped out,2025-09-18,Lost contact
+RV0357,2026-01-26,19,Female,South-West,Sexual exploitation,Self,Dropped out,2026-07-23,Lost contact
+RV0451,2026-06-19,14,Male,Northwest,Multiple,Church,Dropped out,,
+RV0272,2025-09-19,19,Female,Littoral,Substance use,Family,Working,,
+RV0222,2025-06-18,19,Male,LITTORAL,Substance use,Family,In school,2025-11-30,Lost contact
+RV0106,2024-10-30,22,Female,Littoral,Crime,Church,Dropped out,,
+RV0033,2024-05-02,20,Female,Far North,Sexual exploitation,Family,Dropped out,2024-10-08,Lost contact
+RV0429,2026-05-21,15,Female,South-West,Sexual exploitation,Church,Dropped out,2026-06-25,Declined to continue
+RV0074,2024-08-25,18,Male,SW,Crime,FAMILY,Working,,
+RV0499,2026-08-27,14,Male,Northwest,Substance use,Church,Working,,
+RV0190,2025-04-26,19,Male,Littoral,Multiple,NGO partner,Dropped out,2026-07-28,Completed programme
+RV0471,2026-07-16,20,Male,Centre,Multiple,Family,In school,,
+RV0279,2025-09-30,21,Female,Littoral,Substance use,Church,Dropped out,,
+RV0326,2025-12-11,19,Male,South,Substance use,Police / court,Dropped out,,
+RV0238,2025-07-30,15,Female,West,Crime,Street outreach,Dropped out,2026-08-29,Lost contact
+RV0365,2026-02-10,17,Male,West,Crime,NGO partner,Dropped out,,
+RV0096,2024-10-15,23,Male,North,Crime,NGO partner,Dropped out,2025-02-11,Lost contact
+RV0138,2025-01-24,19,Male,Centre,Multiple,Street outreach,Dropped out,2025-02-15,Lost contact
+RV0221,2025-06-15,21,Male,Far-North,Crime,Street outreach,Dropped out,,
+RV0334,2025-12-24,20,m,Littoral,Crime,STREET OUTREACH,Dropped out,,
+RV0017,2024-02-21,14,Male,Littoral,Substance use,Street outreach,In school,2024-05-15,Declined to continue
+RV0309,2025-11-11,24,Female,Littoral,Sexual exploitation,Family,Never enrolled,,
+RV0059,2024-07-11,19,Male,South-West,Substance use,Self,Dropped out,2024-11-28,Lost contact
+RV0115,2024-11-17,19,Male,Littoral,Substance use,Family,Dropped out,2024-12-06,Moved away
+RV0056,2024-06-29,16,Male,Northwest,Substance use,Street outreach,Never enrolled,2024-08-03,Lost contact
+RV0331,2025-12-20,,Female,Littoral,Sexual exploitation,Street outreach,Dropped out,,
+RV0248,2025-08-09,21,Female,East,Substance use,Street outreach,Dropped out,2026-09-28,Completed programme
+RV0070,2024-08-09,17,Male,Littoral,Crime,CHURCH,In school,2026-04-27,Completed programme
+RV0151,2025-02-16,18,male,Northwest,Multiple,School,In school,2026-02-06,Lost contact
+RV0408,2026-04-14,20,Female,Littoral,Sexual exploitation,Family,Dropped out,2026-06-21,Moved away
+RV0043,2024-05-26,19,female,North-West,Sexual exploitation,Self,In school,2024-12-20,Lost contact
+RV0263,2025-09-01,21,Male,Northwest,Crime,Street outreach,Dropped out,2025-10-28,Lost contact
+RV0455,2026-06-24,18,Male,littoral,Substance use,Street outreach,Dropped out,,
+RV0418,2026-05-02,24,Male,Littoral,Multiple,Church,Working,,
+RV0399,2026-03-31,23,Female,Centre,Sexual exploitation,Street outreach,Working,,
+RV0361,2026-02-01,20,Male,Southwest,Substance use,Church,Dropped out,2026-05-10,Declined to continue
+RV0386,2026-03-12,19,Male,littoral,Substance use,School,Dropped out,,
+RV0143,2025-01-31,,Female,Littoral,Sexual exploitation,NGO partner,In school,2025-10-11,Completed programme
+RV0077,2024-08-31,16,Female,Southwest,Substance use,Family,Working,2025-05-01,Lost contact
+RV0417,2026-05-02,21,Male,South,Substance use,Church,Dropped out,,
+RV0053,2024-06-23,16,Male,LITTORAL,Crime,Self,Dropped out,2026-02-19,Completed programme
+RV0007,2024-01-23,16,Female,Littoral,Substance use,Self,In school,2024-10-08,Lost contact
+RV0028,2024-04-28,,female,Littoral,Substance use,Church,Working,2024-08-01,Lost contact
+RV0039,2024-05-14,17,Female,West,Sexual exploitation,Street outreach,Dropped out,2026-08-07,Declined to continue
+RV0329,2025-12-18,16,Male,Southwest,Crime,School,Working,2026-04-08,Lost contact
+RV0462,2026-07-04,24,Female,Littoral,Crime,Family,Working,,
+RV0036,2024-05-10,15,male,Littoral,Crime,Church,Working,2026-01-13,Completed programme
+RV0048,2024-06-06,21,Male,LITTORAL,Substance use,Church,Dropped out,2024-10-02,Lost contact
+RV0026,2024-04-06,14,Female,Far North,Multiple,Church,In school,,
+RV0188,2025-04-23,15,Male,Centre,Substance use,Church,Dropped out,,
+RV0255,2025-08-23,16,Male,Littoral,Crime,Self,Dropped out,2025-12-16,Lost contact
+RV0047,2024-06-05,19,Female,SW,Sexual exploitation,Street outreach,Never enrolled,,
+RV0172,2025-03-27,18,Male,North West,Crime,Street outreach,Dropped out,2025-06-02,Lost contact
+RV0166,2025-03-12,18,Female,Far North,Multiple,Police / court,Dropped out,2025-12-22,Lost contact
+RV0414,2026-05-01,22,Female,Littoral,Substance use,NGO partner,Dropped out,,
+RV0139,2025-01-26,13,Female,Southwest,Substance use,School,Dropped out,2026-05-10,Completed programme
+RV0229,2025-07-13,16,F,Northwest,Substance use,Family,Dropped out,2026-01-07,Lost contact
+RV0253,2025-08-18,22,M,Northwest,Crime,Family,Working,2026-07-11,Moved away
+RV0093,2024-10-05,17,Male,SW,Substance use,School,Dropped out,2024-10-26,Lost contact
+RV0042,2024-05-26,13,Male,Southwest,Substance use,NGO partner,In school,2025-03-17,Completed programme
+RV0436,2026-06-06,17,Male,littoral,Substance use,NGO PARTNER,Dropped out,,
+RV0201,2025-05-21,17,Male,Littoral,Substance use,Self,Dropped out,,
+RV0472,2026-07-17,24,Male,Littoral,Crime,Street outreach,In school,2026-09-05,Declined to continue
+RV0126,2024-12-27,17,Male,Littoral,Substance use,Self,Dropped out,2025-05-13,Moved away
+RV0041,2024-05-25,20,male,Centre,Crime,CHURCH,Never enrolled,2024-12-11,Declined to continue
+RV0308,2025-11-11,17,Female,West,Crime,Church,In school,2025-12-07,Moved away
+RV0099,2024-10-20,22,Female,Littoral,Substance use,Church,In school,2024-10-28,Moved away
+RV0250,2025-08-10,19,Female,Littoral,Sexual exploitation,Family,Dropped out,,
+RV0101,2024-10-22,14,Female,Far North,Crime,Family,Never enrolled,,
+RV0232,2025-07-15,14,Female,Northwest,Sexual exploitation,Police / court,Never enrolled,2025-11-06,Lost contact
+RV0316,2025-11-24,24,m,Southwest,Crime,Street outreach,In school,2026-04-11,Lost contact
+RV0371,2026-02-24,18,Female,Southwest,Substance use,Church,Working,2026-08-13,Lost contact
+RV0066,2024-07-26,13,Female,Littoral,Sexual exploitation,Church,Dropped out,2026-05-17,Moved away
+RV0411,2026-04-23,19,Female,LITTORAL,Multiple,Family,In school,,
+RV0137,2025-01-21,,Male,North,Sexual exploitation,Street outreach,Working,2025-03-25,Lost contact
+RV0024,2024-03-30,22,Male,Littoral,Sexual exploitation,Church,Dropped out,,
+RV0360,2026-02-01,21,F, Littoral,Substance use,FAMILY,Working,,
+RV0271,2025-09-11,17,Male,Littoral,Crime,Street outreach,Dropped out,,
+RV0035,2024-05-06,20,f,Littoral,Sexual exploitation,NGO partner,Dropped out,2024-07-02,Lost contact
+RV0447,2026-06-15,19,Male,Littoral,Substance use,NGO PARTNER,In school,,
+RV0014,2024-02-12,17,Male,littoral,Substance use,NGO partner,Working,2026-02-26,Completed programme
+RV0323,2025-12-08,13,Female,LITTORAL,Substance use,Family,Never enrolled,,
+RV0072,2024-08-23,19,Female,West,Sexual exploitation,NGO partner,Dropped out,2026-05-05,Moved away
+RV0341,2025-12-28,20,Male, Littoral,Multiple,School,Dropped out,2026-02-25,Moved away
+RV0290,2025-10-13,21,male,Northwest,Substance use,Street outreach,Dropped out,,
+RV0067,2024-08-03,20,Male,West,Sexual exploitation,NGO PARTNER,Working,2025-06-10,Moved away
+RV0254,2025-08-22,21,Female,Centre,Sexual exploitation,School,In school,2026-08-08,Completed programme
+RV0167,2025-03-13,20,F,Northwest,Substance use,Street outreach,Dropped out,2026-09-13,Lost contact
+RV0313,2025-11-18,23,Male,North,Multiple,NGO partner,Dropped out,2025-12-10,Declined to continue
+RV0446,2026-06-15,23,Male,Northwest,Substance use,Street outreach,Dropped out,,
+RV0402,2026-04-03,18,Male,Littoral,Substance use,Church,Dropped out,,
+RV0415,2026-05-01,14,m,Northwest,Crime,School,Working,2026-08-04,Lost contact
+RV0247,2025-08-08,22,Female,Southwest,Substance use,Street outreach,In school,2025-09-28,Lost contact
+RV0181,2025-04-09,18,m,Northwest,Substance use,NGO partner,Dropped out,2025-10-05,Lost contact
+RV0463,2026-07-05,18,Male,Northwest,Crime,Family,In school,,
+RV0027,2024-04-19,17,Male,Southwest,Substance use,Family,In school,2026-09-22,Completed programme
+RV0479,2026-07-26,15,Female,Littoral,Sexual exploitation,Self,Dropped out,,
+RV0459,2026-06-28,18,Male,Littoral,Substance use,Street outreach,In school,,
+RV0286,2025-10-10,16,Male,South West,Substance use,Street outreach,Dropped out,2025-11-18,Lost contact
+RV0226,2025-06-30,19,Male,Southwest,Substance use,Street outreach,Dropped out,2026-02-10,Moved away
+RV0498,2026-08-27,16,Female,East,Crime,Church,Dropped out,,
+RV0324,2025-12-09,18,Female,Littoral,Sexual exploitation,Church,Dropped out,,
+RV0478,2026-07-26,13,female,Littoral,Crime,NGO partner,Working,,
+RV0021,2024-03-17,15,Female,Littoral,Sexual exploitation,Church,In school,,
+RV0095,2024-10-13,14,Female,Centre,Sexual exploitation,Church,Dropped out,2025-05-22,Moved away
+RV0330,2025-12-19,13,Male,Littoral,Crime,FAMILY,In school,,
+RV0132,2025-01-12,18,Male,Southwest,Crime,Family,In school,2025-02-05,Declined to continue
+RV0496,2026-08-25,17,Male,Littoral,Substance use,SCHOOL,Dropped out,2026-08-30,Lost contact
+RV0165,2025-03-10,20,Female,Littoral,Sexual exploitation,Street outreach,Dropped out,2025-04-04,Lost contact
+RV0295,2025-10-24,21,Male,Littoral,Crime,Self,In school,,
+RV0493,2026-08-18,22,female,Littoral,Crime,Police / court,Dropped out,,
+RV0157,2025-02-23,13,Male,Littoral,Substance use,Street outreach,Dropped out,,
+RV0420,2026-05-05,18,Female,Centre,Substance use,Street outreach,Working,,
+RV0425,2026-05-13,16,m,North-West,Multiple,Street outreach,Working,,
+RV0376,2026-02-28,17,Male,Littoral,Substance use,School,Never enrolled,,
+RV0004,2024-01-16,17,Female,Centre,Sexual exploitation,Church,Never enrolled,2025-06-11,Declined to continue
+RV0492,2026-08-15,15,Male,Southwest,Substance use,Street outreach,Dropped out,,
+RV0124,2024-12-21,20,Male,Northwest,Substance use,Street outreach,Dropped out,2025-08-28,Moved away
+RV0122,2024-12-12,18,Male,Littoral,Substance use,Family,In school,,
+RV0107,2024-11-01,16,Male,Southwest,Substance use,Street outreach,Dropped out,2025-10-13,Moved away
+RV0456,2026-06-27,16,Female,Littoral,Sexual exploitation,School,Working,2026-09-10,Lost contact
+RV0086,2024-09-21,20,Male,West,Multiple,Church,Never enrolled,2025-03-08,Lost contact
+RV0034,2024-05-04,20,Female,Littoral,Multiple,Church,Working,2024-09-25,Lost contact
+RV0270,2025-09-10,23,Male,Littoral,Substance use,Street outreach,Dropped out,2026-02-06,Declined to continue
+RV0364,2026-02-09,16,Male,Littoral,Crime,Police / court,Dropped out,2026-08-11,Lost contact
+RV0292,2025-10-19,21,Male,East,Substance use,School,In school,,
+RV0342,2025-12-28,20,Female,Southwest,Sexual exploitation,Family,Working,2026-01-09,Lost contact
+RV0045,2024-05-28,19,Male,South,Substance use,Family,Dropped out,2024-06-13,Declined to continue
+RV0293,2025-10-19,18,Female,Southwest,Sexual exploitation,Church,In school,,
+RV0362,2026-02-04,16,Female,Southwest,Substance use,Church,Dropped out,2026-06-11,Lost contact
+RV0174,2025-03-29,16,Male,Littoral (Douala),Multiple,School,In school,2025-10-25,Lost contact
+RV0091,2024-10-04,19,Male,Littoral,Substance use,School,In school,2025-05-31,Lost contact
+RV0109,2024-11-06,20,Female,Southwest,Substance use,Self,Working,2026-04-25,Completed programme
+RV0488,2026-08-07,18,Male,Northwest,Substance use,Family,Dropped out,,
+RV0133,2025-01-14,,f,Littoral,Substance use,Family,Dropped out,2026-01-15,Lost contact
+RV0489,2026-08-08,18,Female,Littoral,Substance use,Street outreach,Dropped out,,
+RV0260,2025-08-28,14,Male,Extreme Nord,Sexual exploitation,Street outreach,In school,2025-09-27,Declined to continue
+RV0225,2025-06-27,23,Male,West,Crime,Church,In school,2025-06-29,Moved away
+RV0025,2024-04-05,17,Female,Southwest,Substance use,Street outreach,Never enrolled,,
+RV0087,2024-09-27,20,Female,Southwest,Substance use,Family,Dropped out,2026-07-21,Completed programme
+RV0212,2025-06-01,17,Female,Littoral,Substance use,FAMILY,Working,2025-12-01,Moved away
+RV0173,2025-03-29,19,Male,Southwest,Crime,Family,In school,2025-11-21,Lost contact
+RV0187,2025-04-17,21,Female,NW,Crime,Church,Dropped out,2025-12-21,Lost contact
+RV0141,2025-01-29,13,Male,Littoral,Crime,Police / court,Never enrolled,2025-05-12,Moved away
+RV0375,2026-02-27,13,Male,East,Multiple,Self,Dropped out,2026-04-10,Lost contact
+RV0178,2025-04-03,19,Male,Littoral,Substance use,Self,Working,2026-03-08,Lost contact
+RV0359,2026-01-27,18,Male,Northwest,Substance use,Police / court,Working,2026-03-19,Lost contact
+RV0378,2026-03-02,24,m,South West,Substance use,Police / court,Working,2026-07-30,Lost contact
+RV0118,2024-11-22,17,Female,Littoral,Substance use,Family,Working,2025-09-01,Lost contact
+RV0148,2025-02-15,,m,Littoral,Multiple,Street outreach,Working,,
+RV0401,2026-04-02,21,m,Southwest,Substance use,STREET OUTREACH,Working,2026-04-18,Moved away
+RV0461,2026-07-01,18,Female,South West,Crime,Church,Working,,
+RV0032,2024-05-01,19,m,Littoral,Sexual exploitation,Street outreach,In school,2026-05-03,Completed programme
+RV0231,2025-07-14,15,Female,West,Substance use,Street outreach,In school,,
+RV0037,2024-05-12,19,Male,littoral,Multiple,Street outreach,In school,2024-07-12,Lost contact
+RV0198,2025-05-14,20,Male,Littoral,Substance use,NGO partner,Working,,
+RV0310,2025-11-12,16,Male,Northwest,Crime,Police / court,Dropped out,2026-04-01,Lost contact
+RV0215,2025-06-11,15,Female,West,Multiple,Street outreach,Dropped out,,
+RV0161,2025-03-05,20,f,Northwest,Substance use,Family,Dropped out,2025-06-02,Moved away
+RV0140,2025-01-27,20,Female,Northwest,Substance use,NGO partner,Dropped out,,
+RV0289,2025-10-13,24,Male,Northwest,Crime,Family,Dropped out,2026-04-17,Lost contact
+RV0239,2025-07-30,17,Female,Littoral,Substance use,Church,In school,2025-09-22,Lost contact
+RV0405,2026-04-07,18,Male,North-West,Crime,Street outreach,Dropped out,,
+RV0424,2026-05-13,21,Male,littoral,Substance use,Church,Never enrolled,,
+RV0478,2026-07-26,13,female,Littoral,Crime,NGO partner,Working,,
+RV0031,2024-04-30,13,Male,Northwest,Crime,Family,In school,2026-02-24,Completed programme
+RV0230,2025-07-13,17,f,Southwest,Multiple,Police / court,Dropped out,,
+RV0350,2026-01-13,19,Female,Northwest,Substance use,Street outreach,Dropped out,,
+RV0233,2025-07-17,20,Female,Littoral,Substance use,Street outreach,Dropped out,2025-11-05,Lost contact
+RV0404,2026-04-05,19,Male, Littoral,Sexual exploitation,Family,In school,,
+RV0291,2025-10-17,13,Male,Littoral (Douala),Crime,Family,Dropped out,,
+RV0227,2025-07-07,19,Male,Southwest,Substance use,Church,Working,2026-09-20,Lost contact
+RV0146,2025-02-11,19,Female,Littoral,Crime,Street outreach,Dropped out,2026-08-06,Lost contact
+RV0384,2026-03-10,20,Male,Northwest,Substance use,Street outreach,Working,2026-03-18,Lost contact
+RV0497,2026-08-26,18,Male,Littoral,Substance use,Police / court,Dropped out,,
+RV0040,2024-05-20,19,Female,West,Substance use,Family,Dropped out,2024-10-20,Declined to continue
+RV0266,2025-09-05,21,m,Northwest,Substance use,NGO PARTNER,Dropped out,,
+RV0481,2026-08-02,22,Male,Northwest,Substance use,Street outreach,Working,,
+RV0302,2025-11-06,18,Male,Southwest,Substance use,Church,Dropped out,2026-01-05,Lost contact
+RV0206,2025-05-28,23,m,Littoral,Substance use,Street outreach,Dropped out,2026-02-02,Moved away
+RV0105,2024-10-30,19,Female,West,Substance use,Street outreach,In school,,
+RV0416,2026-05-02,17,female,Littoral,Substance use,School,Dropped out,,
+RV0390,2026-03-21,24,Male,Littoral,Crime,Self,In school,,
+RV0320,2025-11-30,20,Female,Littoral,Sexual exploitation,Church,Working,2026-06-23,Lost contact
+RV0090,2024-10-03,15,Female, Littoral,Crime,Family,Dropped out,2025-04-21,Lost contact
+RV0177,2025-04-01,20,m,Littoral,Crime,Church,Dropped out,2025-10-07,Lost contact
+RV0057,2024-07-02,16,M,Northwest,Substance use,Street outreach,Dropped out,2024-12-27,Lost contact
+RV0119,2024-11-25,15,Male,Littoral,Crime,FAMILY,Dropped out,2026-04-02,Completed programme
+RV0259,2025-08-27,17,Male,South,Crime,Self,In school,2026-06-13,Moved away
+RV0051,2024-06-18,18,Female,West,Crime,SELF,Dropped out,2024-08-28,Moved away
+RV0388,2026-03-14,13,F,West,Substance use,Street outreach,In school,,
+RV0437,2026-06-07,20,Male,Littoral,Crime,Street outreach,In school,2026-08-05,Declined to continue
+RV0104,2024-10-28,15,Male,LITTORAL,Crime,Street outreach,Working,2025-06-10,Lost contact
+RV0242,2025-08-02,20,Male,northwest,Substance use,CHURCH,Dropped out,2025-10-15,Lost contact
+RV0220,2025-06-15,14,female,Northwest,Sexual exploitation,Police / court,Dropped out,2025-07-24,Declined to continue
+RV0169,2025-03-19,24,Male,LITTORAL,Substance use,Church,In school,,
+RV0186,2025-04-15,,f,LITTORAL,Sexual exploitation,Church,In school,2026-06-07,Lost contact
+RV0083,2024-09-14,21,f,Littoral,Sexual exploitation,STREET OUTREACH,Dropped out,,
+RV0085,2024-09-20,16,f,Littoral,Substance use,Church,In school,2025-03-23,Moved away
+RV0144,2025-02-02,13,Male, Littoral,Substance use,Church,Working,2026-04-28,Moved away
+RV0130,2025-01-10,20,Female,Southwest,Sexual exploitation,STREET OUTREACH,Never enrolled,2025-05-29,Lost contact
+RV0355,2026-01-24,19,Male,northwest,Substance use,Street outreach,In school,2026-08-15,Lost contact
+RV0283,2025-10-07,,Female,Northwest,Sexual exploitation,Church,Dropped out,,
+RV0314,2025-11-20,20,Female,Centre,Substance use,Family,Dropped out,2026-04-16,Declined to continue
+RV0439,2026-06-09,23,Male,Northwest,Substance use,School,Dropped out,,
+RV0457,2026-06-27,23,male,Littoral,Substance use,CHURCH,Dropped out,,
+RV0193,2025-05-08,,Female,South,Substance use,School,In school,2026-01-18,Completed programme
+RV0068,2024-08-04,16,Male,Centre,Crime,Police / court,In school,2024-10-16,Moved away
+RV0080,2024-09-13,20,Female, Littoral,Multiple,Family,In school,2024-12-27,Lost contact
+RV0245,2025-08-07,17,Female,Southwest,Substance use,Police / court,Dropped out,2026-01-25,Declined to continue
+RV0258,2025-08-27,18,Female,Littoral,Sexual exploitation,Family,Dropped out,2026-07-14,Completed programme
+RV0485,2026-08-05,18,male,Littoral,Crime,NGO partner,Dropped out,2026-08-17,Lost contact
+RV0346,2026-01-04,18,Female,littoral,Substance use,Church,Working,2026-01-06,Declined to continue
+RV0483,2026-08-03,19,Female,West,Multiple,Church,Dropped out,,
+RV0018,2024-02-24,18,Male,Southwest,Substance use,Church,Dropped out,2024-10-25,Completed programme
+RV0307,2025-11-10,19,Male,Centre,Crime,Street outreach,Working,2026-04-02,Lost contact
+RV0428,2026-05-19,18,Female,Littoral (Douala),Sexual exploitation,Church,Dropped out,2026-06-04,Declined to continue
+RV0303,2025-11-06,17,m,Littoral,Substance use,Self,In school,2026-01-31,Lost contact
+RV0354,2026-01-23,20,Male,Centre,Substance use,FAMILY,Dropped out,2026-07-01,Moved away
+RV0494,2026-08-20,16,Male,Littoral,Crime,Street outreach,Working,,
+RV0209,2025-05-29,19,Female,Littoral,Substance use,Self,Dropped out,2025-08-19,Declined to continue
+RV0381,2026-03-04,15,Female,Littoral,Sexual exploitation,Church,In school,,
+RV0287,2025-10-11,17,F,Southwest,Sexual exploitation,Street outreach,Dropped out,2026-02-05,Declined to continue
+RV0421,2026-05-08,16,f,Littoral,Substance use,Family,Never enrolled,2026-07-05,Lost contact
+RV0127,2024-12-31,21,Female,SW,Substance use,School,Dropped out,2025-06-12,Lost contact
+RV0476,2026-07-23,14,F,Littoral,Sexual exploitation,Street outreach,In school,,
+RV0256,2025-08-26,18,Male,Littoral (Douala),Crime,School,Working,,
+RV0475,2026-07-20,18,female,Northwest,Substance use,POLICE / COURT,Working,,
+RV0179,2025-04-08,22,Male,Northwest,Substance use,Family,Dropped out,,
+RV0435,2026-06-06,20,Female,Centre,Crime,Family,Dropped out,,
+RV0275,2025-09-25,20,Female,Littoral,Sexual exploitation,FAMILY,Never enrolled,2026-09-10,Declined to continue
+RV0135,2025-01-19,24,Female,Centre,Substance use,Police / court,Dropped out,2025-07-13,Declined to continue
+RV0196,2025-05-12,18,female,Northwest,Substance use,Church,Dropped out,,
+RV0038,2024-05-12,20,Male,SW,Crime,Street outreach,Working,2024-06-16,Declined to continue
+RV0269,2025-09-09,21,Female,Northwest,Substance use,Street outreach,Never enrolled,,
+RV0343,2026-01-01,19,Male, Littoral,Sexual exploitation,Church,Working,,
+RV0168,2025-03-18,19,Male,Adamawa,Substance use,Family,Dropped out,,
+RV0055,2024-06-28,19,Male, Littoral,Substance use,Church,Dropped out,2025-01-10,Declined to continue
+RV0412,2026-04-25,16,Male, Littoral,Crime,Family,In school,,
+RV0128,2025-01-05,13,Female,Southwest,Crime,Street outreach,Dropped out,,
+RV0344,2026-01-02,16,Female,West,Multiple,Family,Dropped out,2026-07-27,Lost contact
+RV0273,2025-09-22,20,Male,Littoral (Douala),Crime,Church,Dropped out,2026-06-14,Lost contact
+RV0482,2026-08-03,20,Male,Southwest,Crime,Street outreach,Never enrolled,,
+RV0427,2026-05-13,13,Female,NW,Sexual exploitation,NGO partner,Never enrolled,,
+RV0189,2025-04-24,14,Male,Littoral,Crime,Street outreach,Dropped out,2025-05-21,Declined to continue
+RV0033,2024-05-02,20,Female,Far North,Sexual exploitation,Family,Dropped out,2024-10-08,Lost contact
+RV0358,2026-01-26,20,Male,Littoral,Crime,Family,In school,,
+RV0002,2024-01-08,19,Female,North,Multiple,FAMILY,Dropped out,,
+RV0383,2026-03-10,16,Female,Littoral,Substance use,Street outreach,Working,2026-03-30,Lost contact
+RV0060,2024-07-12,17,Female,Centre,Multiple,Street outreach,Never enrolled,,
+RV0409,2026-04-21,20,Female,Northwest,Sexual exploitation,School,Working,2026-09-19,Declined to continue
+RV0430,2026-05-24,16,F,Southwest,Sexual exploitation,Street outreach,In school,2026-05-27,Lost contact
+RV0075,2024-08-26,16,Female,Northwest,Sexual exploitation,Self,Never enrolled,2025-01-21,Lost contact
+RV0277,2025-09-28,21,F,NW,Crime,Self,Dropped out,2026-08-09,Lost contact
+RV0392,2026-03-24,20,Male,Centre,Multiple,Self,In school,,
+RV0387,2026-03-12,16,Male,Littoral,Substance use,NGO partner,Never enrolled,,
+RV0016,2024-02-20,15,Female,Southwest,Multiple,School,Dropped out,2025-04-07,Lost contact
+RV0318,2025-11-25,18,Female,Southwest,Sexual exploitation,Street outreach,Working,2026-02-16,Lost contact
+RV0088,2024-09-28,16,Male,Littoral (Douala),Substance use,Street outreach,In school,2024-10-29,Moved away
+RV0319,2025-11-30,19,Male,Northwest,Substance use,Family,Dropped out,,
+RV0380,2026-03-03,17,Male,Littoral,Substance use,Church,In school,,
+RV0217,2025-06-11,20,Male,Adamawa,Substance use,NGO partner,Dropped out,2025-10-20,Lost contact
+RV0395,2026-03-26,14,Male,West,Substance use,Self,Working,,
+RV0005,2024-01-18,20,Female,Centre,Multiple,Police / court,Dropped out,2025-10-13,Lost contact
+RV0369,2026-02-20,19,F,Southwest,Multiple,Family,Dropped out,,
+RV0199,2025-05-15,20,Female,LITTORAL,Sexual exploitation,NGO PARTNER,Dropped out,2025-07-21,Lost contact
+RV0069,2024-08-06,17,Male,East,Multiple,Street outreach,Dropped out,2025-03-23,Lost contact
+RV0422,2026-05-10,23,Female,Littoral,Crime,School,Working,2026-07-22,Lost contact
+RV0147,2025-02-12,22,Male,North West,Substance use,Family,Dropped out,,
+RV0396,2026-03-26,,Male,East,Substance use,Family,Working,2026-05-26,Lost contact
+RV0152,2025-02-18,17,Male,Littoral,Substance use,Family,Never enrolled,,
+RV0468,2026-07-14,17,Male,West,Substance use,Family,Working,,
+RV0438,2026-06-09,16,Female,West,Substance use,Family,In school,2026-07-15,Lost contact
+RV0098,2024-10-19,16,Male,Littoral,Substance use,Street outreach,Never enrolled,2026-01-04,Completed programme
+RV0389,2026-03-18,,F,Southwest,Substance use,Street outreach,Working,,
+RV0022,2024-03-20,18,Male,East,Multiple,Street outreach,Dropped out,2025-02-20,Moved away
+RV0083,2024-09-14,21,f,Littoral,Sexual exploitation,STREET OUTREACH,Dropped out,,
+RV0134,2025-01-17,18,M,Northwest,Multiple,Church,Never enrolled,2026-01-24,Moved away
+RV0353,2026-01-18,14,Female,Southwest,Sexual exploitation,Family,Dropped out,,
+RV0171,2025-03-27,18,Female,Northwest,Crime,Street outreach,Dropped out,,
+RV0469,2026-07-15,23,M,Southwest,Crime,Church,Working,,
+RV0073,2024-08-24,14,Male,Centre,Substance use,Self,Dropped out,2025-09-02,Lost contact
+RV0335,2025-12-25,21,Male,Littoral,Substance use,Police / court,Dropped out,2026-05-11,Moved away
+RV0054,2024-06-26,14,Female,Littoral,Sexual exploitation,Self,Dropped out,2026-07-09,Completed programme
+RV0407,2026-04-11,21,Male,Littoral,Substance use,School,Dropped out,2026-04-26,Moved away
+RV0081,2024-09-14,20,Male,Northwest,Substance use,Church,Dropped out,2024-11-09,Lost contact
+RV0265,2025-09-05,13,Male,West,Crime,Family,Dropped out,2025-09-29,Lost contact
+RV0276,2025-09-27,16,Male,South,Substance use,Police / court,Dropped out,2025-10-07,Lost contact
+RV0195,2025-05-11,15,Female,Littoral,Sexual exploitation,Street outreach,Dropped out,,
+RV0202,2025-05-22,21,Male,West,Substance use,Church,Dropped out,,
+RV0023,2024-03-23,20,Male,Southwest,Crime,School,Dropped out,2026-09-14,Completed programme
+RV0294,2025-10-21,16,Male,Far-North,Crime,Police / court,In school,,
+RV0158,2025-02-23,18,female,West,Substance use,Family,Dropped out,2026-06-11,Completed programme
+RV0299,2025-11-03,21,Male,Adamawa,Substance use,Family,Never enrolled,,
+RV0112,2024-11-16,17,Female,Southwest,Sexual exploitation,SCHOOL,Dropped out,2026-09-21,Lost contact
+RV0274,2025-09-24,15,Male,North West,Substance use,Street outreach,Dropped out,2025-11-08,Lost contact
+RV0010,2024-01-29,21,Male,Littoral,Sexual exploitation,Street outreach,Never enrolled,2024-03-04,Moved away
+RV0052,2024-06-21,18,female,Littoral (Douala),Sexual exploitation,Church,In school,2026-04-30,Declined to continue
+RV0391,2026-03-22,15,Male,Southwest,Crime,Church,In school,,
+RV0382,2026-03-08,17,Male,Southwest,Multiple,Street outreach,Working,2026-04-28,Declined to continue
+RV0280,2025-10-03,24,male,Northwest,Multiple,Police / court,In school,,
+RV0191,2025-05-04,21,Female,Centre,Sexual exploitation,Street outreach,Working,2025-06-04,Lost contact
+RV0154,2025-02-20,17,Female,Northwest,Substance use,SELF,Never enrolled,,
+RV0044,2024-05-26,15,Male,North,Substance use,Street outreach,Dropped out,2025-11-04,Lost contact
+RV0089,2024-09-28,13,Male,Littoral (Douala),Substance use,Church,Dropped out,2026-05-26,Lost contact
+RV0328,2025-12-16,22,Male,North-West,Sexual exploitation,Church,Dropped out,2026-08-02,Declined to continue
+RV0385,2026-03-11,18,Female,West,Multiple,Family,Dropped out,2026-04-10,Lost contact
+RV0210,2025-05-30,19,Male,NW,Substance use,Police / court,Never enrolled,2025-09-29,Lost contact
+RV0432,2026-05-30,18,Female,Northwest,Sexual exploitation,Family,Dropped out,,
+RV0431,2026-05-24,15,Male,Littoral,Substance use,NGO partner,Dropped out,,
+RV0003,2024-01-11,19,Male,South,Crime,STREET OUTREACH,Working,2024-07-30,Lost contact
+RV0249,2025-08-10,17,Male,Northwest,Crime,Street outreach,Dropped out,2025-10-29,Lost contact
+RV0079,2024-09-05,18,Male,North,Multiple,NGO partner,Dropped out,2024-12-31,Lost contact
+RV0211,2025-06-01,22,Female,Far North,Sexual exploitation,Police / court,Working,,
+RV0374,2026-02-26,23,Male,West,Multiple,Family,Working,2026-07-13,Lost contact
+RV0082,2024-09-14,18,Male,Littoral (Douala),Substance use,Church,In school,2025-07-10,Declined to continue
+RV0097,2024-10-18,21,Male,Littoral,Substance use,Street outreach,Dropped out,2025-09-08,Lost contact
+RV0160,2025-02-28,15,Male,Littoral,Substance use,Church,Never enrolled,,
+RV0298,2025-10-31,,Female,Littoral,Sexual exploitation,Church,Working,2026-04-09,Declined to continue
+RV0345,2026-01-04,17,Female,Littoral,Sexual exploitation,Church,In school,2026-07-30,Lost contact
+RV0243,2025-08-05,20,Female,Northwest,Sexual exploitation,NGO partner,Working,,
+RV0281,2025-10-03,19,m,Northwest,Crime,Family,Dropped out,,
+RV0235,2025-07-20,18,Male,Littoral,Substance use,Church,In school,2026-05-07,Completed programme
+RV0327,2025-12-13,22,Female,Littoral,Sexual exploitation,Street outreach,In school,,
+RV0236,2025-07-20,,Female,Northwest,Substance use,Street outreach,In school,,
+RV0184,2025-04-13,20,Female,littoral,Sexual exploitation,Street outreach,Working,2025-04-15,Lost contact
+RV0486,2026-08-06,23,Male,North West,Multiple,Street outreach,Dropped out,,
+RV0103,2024-10-25,20,Male,Littoral (Douala),Crime,NGO partner,Dropped out,2025-09-22,Completed programme
+RV0444,2026-06-13,18,Male,Littoral,Substance use,Church,In school,,
+RV0413,2026-04-27,15,f,East,Multiple,CHURCH,Dropped out,,
+RV0442,2026-06-11,,Male,South,Multiple,Church,In school,,
+RV0120,2024-11-27,21,Female,Southwest,Crime,Self,Dropped out,2025-03-16,Declined to continue
+RV0185,2025-04-14,22,Male,Littoral,Crime,School,Dropped out,2025-11-22,Lost contact
+RV0363,2026-02-09,20,Male,SW,Crime,Church,In school,2026-04-11,Lost contact
+RV0205,2025-05-24,18,Male,Southwest,Multiple,NGO partner,Dropped out,2026-07-05,Lost contact
+RV0078,2024-09-02,18,Male,Littoral,Multiple,Family,In school,2025-02-11,Lost contact
+RV0261,2025-08-29,20,Female,North-West,Crime,School,Dropped out,2026-08-02,Completed programme
+RV0348,2026-01-10,20,Male,Centre,Substance use,Police / court,Dropped out,,
+RV0114,2024-11-17,18,m,Littoral (Douala),Sexual exploitation,Street outreach,Never enrolled,2025-08-17,Completed programme
+RV0465,2026-07-07,19,Male,Northwest,Multiple,Family,Never enrolled,,
+RV0241,2025-08-02,17,Male,Centre,Multiple,Church,Dropped out,,
+RV0125,2024-12-22,15,F,South,Multiple,Street outreach,Working,2026-01-02,Completed programme
+RV0322,2025-12-08,20,Female,Littoral,Multiple,Street outreach,In school,2026-04-09,Declined to continue
+RV0006,2024-01-23,21,Male,North West,Substance use,Self,Working,2025-05-22,Completed programme
+RV0337,2025-12-26,17,male,Littoral,Sexual exploitation,Church,Dropped out,2026-09-14,Lost contact
+RV0473,2026-07-19,16,Male,Southwest,Crime,Street outreach,Dropped out,,
+RV0163,2025-03-05,18,Male,Littoral,Substance use,Church,Dropped out,2025-07-26,Lost contact
+RV0267,2025-09-07,22,Male,Southwest,Crime,Family,Dropped out,2026-07-27,Lost contact
+RV0325,2025-12-10,14,Female,West,Substance use,Police / court,Dropped out,,
+RV0175,2025-03-29,21,Female,Northwest,Substance use,School,Never enrolled,2025-06-10,Lost contact
+RV0393,2026-03-24,23,Male,West,Multiple,FAMILY,Dropped out,2026-06-05,Lost contact
+RV0464,2026-07-06,15,male,Littoral (Douala),Substance use,School,Never enrolled,,
+RV0333,2025-12-23,13,Male,Northwest,Substance use,NGO partner,Working,,
+RV0434,2026-06-05,23,Male,West,Crime,Street outreach,In school,2026-07-20,Declined to continue
+RV0284,2025-10-08,21,Female,West,Substance use,SELF,In school,2025-10-30,Lost contact
+RV0092,2024-10-05,17,Female,East,Sexual exploitation,Self,In school,2025-06-21,Completed programme
+RV0046,2024-06-01,13,Female,West,Multiple,Street outreach,Dropped out,2024-09-14,Declined to continue
+RV0304,2025-11-08,17,Male,Northwest,Sexual exploitation,Church,Dropped out,,
+RV0491,2026-08-15,15,female,Littoral,Sexual exploitation,Church,In school,,
+RV0071,2024-08-15,19,Female,Littoral,Substance use,STREET OUTREACH,Dropped out,2025-11-01,Moved away
+RV0484,2026-08-03,15,Female,Centre,Substance use,Street outreach,In school,,
+RV0136,2025-01-21,24,Male,Littoral,Crime,Church,Dropped out,2025-06-04,Moved away
+RV0449,2026-06-17,13,Male,Littoral,Substance use,Church,Dropped out,,
+RV0246,2025-08-08,18,Female,Littoral (Douala),Substance use,Church,In school,2026-05-09,Completed programme
+RV0406,2026-04-08,17,M,West,Sexual exploitation,School,In school,,
+RV0142,2025-01-30,14,Male,Littoral,Substance use,School,Never enrolled,2025-02-27,Moved away
+RV0009,2024-01-27,17,Female,Centre,Sexual exploitation,Police / court,Dropped out,2024-06-07,Declined to continue
+RV0134,2025-01-17,18,M,Northwest,Multiple,Church,Never enrolled,2026-01-24,Moved away
+RV0117,2024-11-21,22,Female,Littoral,Sexual exploitation,Street outreach,In school,,
+RV0076,2024-08-28,16,Male,Littoral,Substance use,Church,Working,2025-11-30,Moved away
+RV0131,2025-01-12,22,Female,Northwest,Substance use,Family,Dropped out,2026-07-22,Completed programme
+RV0204,2025-05-23,19,Male,North-West,Substance use,Family,In school,2026-02-09,Moved away
+RV0285,2025-10-10,14,Male,Southwest,Substance use,Family,In school,2025-12-27,Lost contact
+RV0351,2026-01-14,18,Male,Centre,Substance use,Street outreach,In school,,
+RV0453,2026-06-20,19,Male,Northwest,Crime,Street outreach,Dropped out,2026-06-30,Moved away
+RV0368,2026-02-19,18,Female,littoral,Multiple,Church,Never enrolled,,
+RV0339,2025-12-28,22,Female,Littoral,Substance use,Street outreach,In school,2026-07-07,Declined to continue
+RV0426,2026-05-13,15,Male,Littoral,Substance use,Church,Dropped out,,
+RV0445,2026-06-14,21,female, Littoral,Substance use,Street outreach,In school,,
+RV0094,2024-10-12,21,Male,Northwest,Multiple,NGO partner,Working,2025-05-13,Lost contact
+RV0423,2026-05-12,20,Female,Littoral,Crime,Family,Working,,
+RV0397,2026-03-30,17,Female,NW,Multiple,Family,Dropped out,,
+RV0113,2024-11-16,17,Female,Littoral,Sexual exploitation,Street outreach,Dropped out,2025-04-22,Lost contact
+RV0340,2025-12-28,15,Female,Littoral,Sexual exploitation,Street outreach,In school,2026-02-10,Lost contact
+RV0216,2025-06-11,,Female,East,Substance use,Street outreach,Working,,
+RV0398,2026-03-30,18,Female,Centre,Substance use,Church,Never enrolled,,
+RV0123,2024-12-18,23,Male,Southwest,Multiple,NGO partner,In school,2025-02-05,Lost contact
+RV0194,2025-05-08,,Female,Far North,Crime,Family,Dropped out,,
+RV0197,2025-05-12,17,Male,Littoral,Substance use,Street outreach,Dropped out,2025-07-13,Moved away
+RV0460,2026-06-29,18,Male,Centre,Crime,Family,Dropped out,2026-06-30,Declined to continue
+RV0466,2026-07-07,20,Male,Northwest,Multiple,School,Dropped out,2026-09-19,Lost contact
+RV0433,2026-06-02,19,Female,South,Multiple,Family,In school,2026-09-26,Lost contact
+RV0297,2025-10-28,15,Female,Northwest,Multiple,Police / court,Dropped out,2026-02-21,Declined to continue
+RV0218,2025-06-13,20,Female,North,Sexual exploitation,Street outreach,Dropped out,2025-07-31,Moved away
+RV0015,2024-02-13,16,Female,Littoral,Substance use,School,Dropped out,2025-10-20,Completed programme
+RV0155,2025-02-21,23,Male,South,Substance use,NGO partner,In school,2025-06-15,Lost contact
+RV0490,2026-08-09,,Female,Littoral,Substance use,Family,Dropped out,,
+RV0332,2025-12-22,23,Male,Littoral,Substance use,Family,Dropped out,,
+RV0306,2025-11-09,17,Male,Centre,Crime,Street outreach,Dropped out,,
+RV0182,2025-04-11,19,male,Southwest,Substance use,School,Working,2025-04-27,Declined to continue
+RV0268,2025-09-08,18,M,Southwest,Substance use,Family,Dropped out,,
+RV0065,2024-07-21,17,female,Northwest,Substance use,Family,Working,2026-06-03,Lost contact
+RV0487,2026-08-07,22,Female,Northwest,Substance use,Church,Dropped out,,
+RV0061,2024-07-13,23,male,Littoral,Substance use,STREET OUTREACH,Never enrolled,2025-12-16,Moved away
+RV0452,2026-06-20,19,F,Littoral,Substance use,Street outreach,In school,,
+RV0317,2025-11-25,17,Male,Centre,Crime,NGO partner,Dropped out,,
+RV0084,2024-09-15,20,Female,Littoral,Sexual exploitation,Church,Dropped out,2025-10-28,Completed programme
+RV0058,2024-07-08,18,Female,Centre,Sexual exploitation,Street outreach,Dropped out,2025-03-08,Moved away
+RV0370,2026-02-20,20,Female,West,Multiple,Self,Dropped out,,
+RV0029,2024-04-29,21,Male,Littoral,Sexual exploitation,Church,Working,,
+RV0500,2026-08-31,20,Male,Littoral,Substance use,Street outreach,In school,,
+RV0102,2024-10-25,21,Female,Northwest,Crime,Street outreach,In school,2026-04-01,Lost contact
+RV0176,2025-03-30,16,Male,Littoral,Substance use,Street outreach,In school,2025-05-07,Lost contact
+RV0278,2025-09-29,19,Female,Littoral,Crime,Church,In school,2025-10-22,Declined to continue
+RV0011,2024-02-05,18,Female,East,Sexual exploitation,Street outreach,Dropped out,2024-07-15,Lost contact
+RV0300,2025-11-04,23,F, Littoral,Substance use,Church,In school,,
+RV0164,2025-03-09,17,Male,Northwest,Crime,SELF,Dropped out,2025-11-06,Completed programme
+RV0214,2025-06-08,18,Male,Littoral,Substance use,Family,In school,,
+RV0454,2026-06-24,20,Male,LITTORAL,Substance use,Family,In school,2026-08-26,Lost contact
+RV0153,2025-02-20,17,Male,Littoral,Substance use,Church,Dropped out,2025-03-02,Lost contact
+RV0162,2025-03-05,18,f,Littoral,Sexual exploitation,Church,Dropped out,2026-04-23,Lost contact
+RV0410,2026-04-21,18,M,LITTORAL,Substance use,School,Dropped out,,
+RV0394,2026-03-24,,F,littoral,Sexual exploitation,Family,Dropped out,,
+RV0373,2026-02-26,15,Male,Littoral,Crime,Church,Dropped out,,
+RV0149,2025-02-15,14,m,Northwest,Multiple,Street outreach,Dropped out,,
+RV0170,2025-03-24,17,Male,West,Substance use,Self,Never enrolled,2025-07-18,Lost contact
+RV0356,2026-01-25,15,Female,Littoral,Crime,School,Dropped out,,
+RV0145,2025-02-06,15,Female,South,Multiple,Family,Dropped out,2026-01-05,Moved away
+RV0013,2024-02-10,16,Male,West,Multiple,NGO partner,In school,2025-01-27,Lost contact
+RV0477,2026-07-23,14,Male,West,Crime,School,Never enrolled,,
+RV0224,2025-06-26,19,Female,South,Substance use,Family,Dropped out,,
+RV0367,2026-02-17,20,Male,Northwest,Substance use,School,In school,,
+RV0377,2026-02-28,19,Male,NW,Multiple,Street outreach,Dropped out,,
+RV0008,2024-01-23,22,f,Northwest,Sexual exploitation,Church,Working,2024-04-28,Lost contact
+RV0183,2025-04-12,16,Female,Northwest,Sexual exploitation,Church,Dropped out,2025-06-04,Lost contact
+RV0419,2026-05-03,18,Male,Littoral,Substance use,Church,Dropped out,2026-06-17,Moved away
+RV0150,2025-02-15,17,Male,Littoral,Crime,Church,Dropped out,2025-10-19,Lost contact
+RV0200,2025-05-16,19,Male, Littoral,Substance use,Family,Never enrolled,,
+RV0129,2025-01-08,20,Male,Northwest,Sexual exploitation,Street outreach,Dropped out,2025-05-12,Declined to continue
+RV0349,2026-01-12,24,M,West,Crime,Church,Dropped out,2026-09-28,Completed programme
+RV0257,2025-08-26,18,Male,Littoral,Crime,Self,Never enrolled,,
+RV0441,2026-06-10,18,Female,Littoral,Crime,Church,Never enrolled,2026-09-09,Lost contact
+RV0192,2025-05-07,20,Male,West,Substance use,Church,Working,2025-10-12,Declined to continue
+RV0150,2025-02-15,17,Male,Littoral,Crime,Church,Dropped out,2025-10-19,Lost contact
+RV0062,2024-07-13,22,Male,West,Sexual exploitation,Family,Working,2024-10-02,Declined to continue
+RV0450,2026-06-18,20,Male, Littoral,Substance use,Family,In school,,
+RV0347,2026-01-07,17,Female,Southwest,Substance use,Church,Dropped out,,
+RV0219,2025-06-14,17,Male,Littoral,Crime,Street outreach,In school,,
+RV0237,2025-07-21,20,m,Centre,Crime,Street outreach,Dropped out,,
+RV0305,2025-11-08,19,Male,Northwest,Substance use,Church,Dropped out,,
+RV0111,2024-11-13,20,Male,Littoral,Substance use,Street outreach,Dropped out,,
+RV0312,2025-11-14,19,Male,Littoral,Crime,Family,Dropped out,2026-05-05,Moved away
+RV0444,2026-06-13,18,Male,Littoral,Substance use,Church,In school,,
+RV0207,2025-05-28,17,Female,North West,Substance use,Family,Working,,
+RV0474,2026-07-19,22,Male,LITTORAL,Crime,Family,Never enrolled,,
+RV0020,2024-03-12,24,Male,Southwest,Substance use,Family,In school,,
+RV0315,2025-11-22,23,Female,South,Crime,Church,In school,2026-05-21,Moved away
+RV0366,2026-02-11,17,Male,Littoral,Crime,Self,Dropped out,,
+RV0336,2025-12-25,23,female,Southwest,Sexual exploitation,Family,Working,2026-06-07,Lost contact
+RV0321,2025-12-06,19,Female,Littoral,Sexual exploitation,Church,Dropped out,2026-03-25,Lost contact
+RV0311,2025-11-13,19,Male,Littoral,Substance use,Family,Dropped out,2026-07-11,Lost contact
+RV0234,2025-07-19,21,Female,Centre,Sexual exploitation,CHURCH,Working,2025-08-20,Lost contact
+RV0400,2026-04-02,20,f,Littoral,Sexual exploitation,Family,Dropped out,,
+RV0162,2025-03-05,18,f,Littoral,Sexual exploitation,Church,Dropped out,2026-04-23,Lost contact
+RV0180,2025-04-08,18,Male,Littoral (Douala),Multiple,Church,Dropped out,2025-04-27,Lost contact
+RV0440,2026-06-10,24,Male,Southwest,Substance use,Church,Never enrolled,,
+RV0480,2026-07-26,19,Male,NW,Crime,Street outreach,Dropped out,,
+RV0296,2025-10-26,13,Male,Southwest,Substance use,STREET OUTREACH,Working,,
+RV0288,2025-10-12,,Female,West,Sexual exploitation,Street outreach,Dropped out,,
+RV0352,2026-01-18,16,Female,Southwest,Sexual exploitation,Street outreach,Dropped out,,
+RV0049,2024-06-14,14,Male,Littoral,Substance use,School,In school,2025-01-27,Lost contact
+RV0063,2024-07-18,20,Female,Northwest,Crime,Family,Dropped out,,
+RV0159,2025-02-27,18,m,Littoral,Sexual exploitation,Family,Never enrolled,2026-05-06,Completed programme
+RV0012,2024-02-10,18,m,Littoral,Substance use,Street outreach,In school,2024-04-27,Declined to continue
+RV0121,2024-12-06,20,Female,Littoral,Sexual exploitation,Self,Dropped out,2025-01-10,Lost contact
+RV0050,2024-06-16,19,Female,Littoral,Sexual exploitation,School,Dropped out,2025-08-15,Completed programme
+RV0030,2024-04-29,18,Female,Northwest,Sexual exploitation,Church,Dropped out,2024-11-11,Lost contact
+RV0008,2024-01-23,22,f,Northwest,Sexual exploitation,Church,Working,2024-04-28,Lost contact
+RV0495,2026-08-23,15,Female,Southwest,Crime,Street outreach,Dropped out,,
+RV0213,2025-06-03,22,Male,Littoral,Substance use,NGO partner,Dropped out,2025-06-04,Declined to continue
+RV0264,2025-09-04,18,female,South,Substance use,Church,Working,,

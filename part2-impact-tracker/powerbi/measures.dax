@@ -1,0 +1,98 @@
+// =====================================================================
+// The Restored Vessel impact tracker: DAX measures
+// Create a blank table called _Measures (Home > Enter data > Load),
+// then add each measure below to it (Modeling > New measure).
+// Table names match the SQL tables: dim_youth, dim_date, fact_sessions,
+// fact_referrals, fact_outcomes.
+// =====================================================================
+
+// ---------- Reach
+Youth Served = DISTINCTCOUNT ( dim_youth[youth_id] )
+
+New Intakes =
+CALCULATE (
+    [Youth Served],
+    USERELATIONSHIP ( dim_youth[intake_date], dim_date[date] )
+)
+
+Active Youth =
+CALCULATE ( [Youth Served], ISBLANK ( dim_youth[exit_date] ) )
+
+% From NW/SW =
+DIVIDE (
+    CALCULATE ( [Youth Served], dim_youth[is_displaced_nw_sw] = 1 ),
+    [Youth Served]
+)
+
+// ---------- Engagement
+Sessions Held = COUNTROWS ( fact_sessions )
+
+Sessions Attended = CALCULATE ( COUNTROWS ( fact_sessions ), fact_sessions[attended] = 1 )
+
+Attendance Rate = DIVIDE ( [Sessions Attended], [Sessions Held] )
+
+Contact Hours =
+DIVIDE (
+    CALCULATE ( SUM ( fact_sessions[duration_min] ), fact_sessions[attended] = 1 ),
+    60
+)
+
+Sessions per Youth = DIVIDE ( [Sessions Attended], [Youth Served] )
+
+// ---------- Referrals
+Referrals Made = COUNTROWS ( fact_referrals )
+
+Referral Completion Rate =
+DIVIDE ( SUM ( fact_referrals[completed] ), [Referrals Made] )
+
+// ---------- Outcomes (put fact_outcomes[checkpoint_month] on the axis or in a slicer)
+Youth Assessed = DISTINCTCOUNT ( fact_outcomes[youth_id] )
+
+Avg Wellbeing = AVERAGE ( fact_outcomes[wellbeing_score] )
+
+% Substance Free =
+CALCULATE (
+    DIVIDE ( SUM ( fact_outcomes[substance_free_30d] ), COUNTROWS ( fact_outcomes ) ),
+    dim_youth[primary_issue] IN { "Substance use", "Multiple" }
+)
+
+% In School or Work =
+DIVIDE ( SUM ( fact_outcomes[in_school_or_work] ), COUNTROWS ( fact_outcomes ) )
+
+% Safe Housing =
+DIVIDE ( SUM ( fact_outcomes[safe_housing] ), COUNTROWS ( fact_outcomes ) )
+
+% Reoffended =
+CALCULATE (
+    DIVIDE ( SUM ( fact_outcomes[reoffended_since_last] ), COUNT ( fact_outcomes[reoffended_since_last] ) ),
+    dim_youth[primary_issue] IN { "Crime", "Multiple" },
+    fact_outcomes[checkpoint_month] > 0
+)
+
+// Paired change: only youth assessed at BOTH intake and 6 months.
+// This avoids the survivorship bias of comparing all intakes with only those still around at 6 months.
+Wellbeing Gain at 6m (paired) =
+VAR Paired =
+    FILTER (
+        VALUES ( dim_youth[youth_id] ),
+        CALCULATE ( COUNTROWS ( fact_outcomes ), fact_outcomes[checkpoint_month] = 6 ) > 0
+    )
+RETURN
+    AVERAGEX (
+        Paired,
+        CALCULATE ( MAX ( fact_outcomes[wellbeing_score] ), fact_outcomes[checkpoint_month] = 6 )
+            - CALCULATE ( MAX ( fact_outcomes[wellbeing_score] ), fact_outcomes[checkpoint_month] = 0 )
+    )
+
+// ---------- Retention (share still in programme N days after intake, among youth old enough)
+Retention 6m =
+VAR Cutoff = DATE ( 2026, 9, 30 )
+VAR Eligible =
+    FILTER ( dim_youth, dim_youth[intake_date] + 182 <= Cutoff )
+VAR Retained =
+    FILTER (
+        Eligible,
+        ISBLANK ( dim_youth[exit_date] ) || dim_youth[exit_date] >= dim_youth[intake_date] + 182
+    )
+RETURN
+    DIVIDE ( COUNTROWS ( Retained ), COUNTROWS ( Eligible ) )
