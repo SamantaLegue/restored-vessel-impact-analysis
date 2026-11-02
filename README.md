@@ -1,5 +1,11 @@
 # From need to response: measuring a youth ministry's impact in Douala
 
+![Restored Vessel dashboard](dashboard.png)
+
+[Download the dashboard as PDF](restored-vessel-impact%20dashboard.pdf)
+
+
+
 A two-part data analysis portfolio project by Samantha, founder of The Restored Vessel, a faith-based ministry in Douala, Cameroon, for young people caught in addiction, crime or sexual exploitation.
 
 **Tools:** SQL (data modelling, cleaning, KPIs), Power BI (data model, DAX, report), Python (synthetic data only).
@@ -78,3 +84,4 @@ The raw intake register (`data/raw_youth_intake.csv`) has the problems real regi
 | `build_sqlite.py`, `restored_vessel.db` | A ready SQLite copy for quick checking (open in DB Browser for SQLite) |
 | `powerbi/POWER_BI_GUIDE.md` | Model, relationships and report page layout |
 | `powerbi/measures.dax` | 19 DAX measures |
+
